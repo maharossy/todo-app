@@ -11,3 +11,7 @@ function Todo({ todo, index, deleteTodo }) {
 }
 
 export default Todo;
+
+function blabla() {
+  return console.log('hello');
+}
